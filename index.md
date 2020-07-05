@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bob's Pages
 ---
 layout: home
 ---
