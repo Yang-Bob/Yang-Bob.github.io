@@ -15,6 +15,7 @@ sass:
 plainwhite:
   name: YangBoyu
   tagline: PhD Student
+  school: University of Chinese Academy of Sciences 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
