@@ -9,9 +9,9 @@ My research interests include computer vision and machine learning, specifically
 
 ## Publications
 ---
-Boyu Yang, Chang Liu, Bohao Li, Jianbin Jiao and Qixiang Ye
+|![avatar](/PMMs.png)|Boyu Yang, Chang Liu, Bohao Li, Jianbin Jiao and Qixiang Ye
 Prototype Mixture Models for Few-shot Semantic Segmentation
-European Conference on Computer Vision(ECCV), 2020
+European Conference on Computer Vision(ECCV), 2020|
 
 ## Award
 ---
