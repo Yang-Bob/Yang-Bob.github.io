@@ -13,7 +13,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: YangBoyu
+  name: Boyu Yang
   tagline: PhD Student
   school: University of Chinese Academy of Sciences 
   mail: yangboyu18@mails.ucas.ac.cn
