@@ -20,8 +20,8 @@ European Conference on Computer Vision(ECCV), 2020 <a href="url">[PDF]</a> <a hr
 
 ## Award
 ---
-
 National Scholarships, 2015 2016
+
 National Mathematical Contest in Modeling, Seconde Prize, 2016
 
 
