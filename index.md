@@ -22,7 +22,15 @@ European Conference on Computer Vision(ECCV), 2020 <a href="https://arxiv.org/pd
 ---
 National Scholarships, 2015 2016
 
-National Mathematical Contest in Modeling, Seconde Prize, 2016
+Second Prize of National Mathematical Contest in Modeling, 2016
+
+Third prize of National “Challenge Cup” Technological Innovation Competition, Outstanding Award in HuBei Province, 2017
+
+Merit Student, Excellent Student Cadre of University of Chinese Academy of Sciences, 2019 2020
+
+Merit Student, Excellent Student Cadre and Excellent Graduates of Wuhan University, 2018
+
+
 
 
 
