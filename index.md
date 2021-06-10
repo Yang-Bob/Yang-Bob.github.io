@@ -17,7 +17,7 @@ My research interests include computer vision and machine learning, specifically
 European Conference on Computer Vision (ECCV), 2020 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PMMs">[Code]</a> </td>
 </tr>
 <tr>
-<td><img src="/PMMs.png"  height="150" width="500"></td>
+<td><img src="/PST.png"  height="150" width="500"></td>
 <td><b>Boyu Yang</b>, Fang Wan, Chang Liu, Bohao Li, Xiangyang Ji and Qixiang Ye, 
 <b>"Part-Based Semantic Transform for Few-Shot Semantic Segmentation"</b>, 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href="https://ieeexplore.ieee.org/document/9448305">[PDF]</a> <a href="https://github.com/Yang-Bob/PST">[Code]</a> </td>
