@@ -14,7 +14,13 @@ My research interests include computer vision and machine learning, specifically
 <td><img src="/PMMs.png"  height="150" width="500"></td>
 <td>Boyu Yang, Chang Liu, Bohao Li, Jianbin Jiao and Qixiang Ye, 
 <b>"Prototype Mixture Models for Few-shot Semantic Segmentation"</b>, 
-European Conference on Computer Vision(ECCV), 2020 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PMMs">[Code]</a> </td>
+European Conference on Computer Vision (ECCV), 2020 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PMMs">[Code]</a> </td>
+</tr>
+<tr>
+<td><img src="/PMMs.png"  height="150" width="500"></td>
+<td>Boyu Yang, Fang Wan, Chang Liu, Bohao Li, Xiangyang Ji and Qixiang Ye, 
+<b>"Part-Based Semantic Transform for Few-Shot Semantic Segmentation"</b>, 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PST">[Code]</a> </td>
 </tr>
 </table>
 
