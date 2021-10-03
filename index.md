@@ -23,10 +23,10 @@ European Conference on Computer Vision (ECCV), 2020 <a href="https://www.ecva.ne
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href="https://ieeexplore.ieee.org/document/9448305">[PDF]</a> <a href="https://github.com/Yang-Bob/PST">[Code]</a> </td>
 </tr>
 <tr>
-<td><img src="/PST.png"  height="150" width="500"></td>
+<td><img src="/CME.png"  height="150" width="500"></td>
 <td>Bohao Li *, <b>Boyu Yang</b> *, Chang Liu, Feng Liu, Rongrong Ji and Qixiang Ye,
 <b>"Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection"</b>, 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf">[PDF]</a> <a href="https://github.com/Bohao-Lee/CME">[Code]</a> </td>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf">[PDF]</a> <a href="https://github.com/Bohao-Lee/CME">[Code]</a> (* Equal Contribution)</td>
 </tr>
 </table>
 
