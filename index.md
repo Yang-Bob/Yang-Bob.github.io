@@ -23,7 +23,7 @@ European Conference on Computer Vision (ECCV), 2020 <a href="https://www.ecva.ne
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href="https://ieeexplore.ieee.org/document/9448305">[PDF]</a> <a href="https://github.com/Yang-Bob/PST">[Code]</a> </td>
 </tr>
 <tr>
-<td><img src="/DST.png"  height="150" width="500"></td>
+<td><img src="/DSN.png"  height="150" width="500"></td>
 <td><b>Boyu Yang</b>, Mingbao Lin, Yunxiao Zhang, Binghao Liu, Xiaodan Liang, Rongrong Ji, Qixiang Ye, 
 <b>"Dynamic Support Network for Few-shot Class Incremental Learning"</b>, 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 <a href="">[PDF]</a> <a href="">[Code]</a> </td>
