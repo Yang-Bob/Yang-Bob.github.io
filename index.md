@@ -23,6 +23,12 @@ European Conference on Computer Vision (ECCV), 2020 <a href="https://www.ecva.ne
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href="https://ieeexplore.ieee.org/document/9448305">[PDF]</a> <a href="https://github.com/Yang-Bob/PST">[Code]</a> </td>
 </tr>
 <tr>
+<td><img src="/DST.png"  height="150" width="500"></td>
+<td><b>Boyu Yang</b>, Mingbao Lin, Yunxiao Zhang, Binghao Liu, Xiaodan Liang, Rongrong Ji, Qixiang Ye, 
+<b>"Dynamic Support Network for Few-shot Class Incremental Learning"</b>, 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 <a href="">[PDF]</a> <a href="">[Code]</a> </td>
+</tr>
+<tr>
 <td><img src="/CME.png"  height="150" width="500"></td>
 <td>Bohao Li *, <b>Boyu Yang</b> *, Chang Liu, Feng Liu, Rongrong Ji and Qixiang Ye,
 <b>"Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection"</b>, 
@@ -38,7 +44,7 @@ Second Prize of National Mathematical Contest in Modeling, 2016
 
 Third prize of National “Challenge Cup” Technological Innovation Competition, Outstanding Award in HuBei Province, 2017
 
-Merit Student, Excellent Student Cadre of University of Chinese Academy of Sciences, 2019 2020
+Merit Student, Excellent Student Cadre of University of Chinese Academy of Sciences, 2019 2020 2021
 
 Merit Student, Excellent Student Cadre and Excellent Graduates of Wuhan University, 2018
 
