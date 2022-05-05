@@ -52,7 +52,7 @@ plainwhite:
 # Build settings
 remote_theme: thelehhman/plainwhite-jekyll
 # theme: Minimal
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
