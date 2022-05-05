@@ -50,7 +50,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+theme: Minimal
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
