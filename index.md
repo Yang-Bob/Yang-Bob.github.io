@@ -26,7 +26,7 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href=
 <td><img src="/DSN.png"  height="150" width="500"></td>
 <td><b>Boyu Yang</b>, Mingbao Lin, Yunxiao Zhang, Binghao Liu, Xiaodan Liang, Rongrong Ji, Qixiang Ye, 
 <b>"Dynamic Support Network for Few-shot Class Incremental Learning"</b>, 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 [PDF] </td>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 </td>
 </tr>
 <tr>
 <td><img src="/CME.png"  height="150" width="500"></td>
